@@ -6,10 +6,10 @@ answers = ["islamabad","babar azam","lahore"]
 
 a= 1000
 b= 2000
-c=3000
+c= 3000
 
 print(questions[0])
-ans1 = input("Enter your answer = ",)
+ans1 = input("Enter your answer = ")
 if (ans1 == answers[0]):
     print(f"correct answer you won {a} ")
 

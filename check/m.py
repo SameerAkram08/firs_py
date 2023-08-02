@@ -1,2 +1,3 @@
 import os
-os.mkdir("data/day")
+
+os.mkdir("data")
